@@ -26,7 +26,7 @@
 # image
 ![api](https://user-images.githubusercontent.com/39239269/206007974-344bdf06-5afc-4be1-a3b6-a699b55a6a19.jpg)
 # Video
-[<img src="https://i9.ytimg.com/vi_webp/lxJeJFCmnAg/mq1.webp?sqp=CJC1vpwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACmAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAk_mg2gKWXHwcswMYRZD_OO97rMA" width="50%">](https://www.youtube.com/watch?v=nA8JC2QpTqw&ab_channel=OmarFaruq "Now in Android: 55")
+[<img src="https://i9.ytimg.com/vi_webp/lxJeJFCmnAg/mq1.webp?sqp=CJC1vpwG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACmAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAk_mg2gKWXHwcswMYRZD_OO97rMA" width="50%">](https://www.youtube.com/watch?v=lxJeJFCmnAg&ab_channel=OmarFaruq "Now in Android: 55")
 
 
 
